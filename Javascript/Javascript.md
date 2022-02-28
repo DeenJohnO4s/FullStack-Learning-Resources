@@ -1,5 +1,4 @@
 
-
 # Master Javascript
 
 [Fork,StarThe GITHub link](https://github.com/deenjohn/FullStack-Learning-Resources/edit/master/Javascript.md)
