@@ -28,3 +28,7 @@ https://web.dev/security-headers/
 
 ## Security
 https://indepth.dev/posts/1382/localstorage-vs-cookies
+
+#### csp
+
+https://www.youtube.com/watch?v=nHOuakyHX1E
