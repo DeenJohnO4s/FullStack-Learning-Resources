@@ -2,7 +2,7 @@
 ## all css properties
 https://www.w3.org/Style/CSS/all-properties.en.html
 
-
+## https://csstriggers.com/
 ### Basics
 
 https://css-tricks.com/almanac/
