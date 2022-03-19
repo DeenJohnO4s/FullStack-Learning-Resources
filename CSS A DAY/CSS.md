@@ -7,6 +7,9 @@ https://www.w3.org/Style/CSS/all-properties.en.html
 ## https://css-tricks.com/almanac/
 
 ## https://tympanus.net/codrops/
+
+## https://meiert.com/en/indices/css-properties/
+## https://adam-marsden.co.uk/css-cheat-sheet#box-properties
 ### Basics
 
 https://css-tricks.com/almanac/
