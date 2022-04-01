@@ -29,3 +29,5 @@ https://github.com/donnemartin/system-design-primer
 
 apache kafka
 https://www.youtube.com/watch?v=Ch5VhJzaoaI
+
+https://www.youtube.com/watch?v=0V9SK6jmDPk
