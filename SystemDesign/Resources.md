@@ -26,3 +26,6 @@ https://github.com/donnemartin/system-design-primer#study-guide
 http://highscalability.com/
 
 https://github.com/donnemartin/system-design-primer
+
+apache kafka
+https://www.youtube.com/watch?v=Ch5VhJzaoaI
