@@ -355,8 +355,18 @@ function promisify(func) {
   .then((sum) => console.log(' sum is ', sum))
    .catch((err) => console.log(' err is', err));
 
-	
-	
+```js
+// promise any 
+// returns a resolved promise ..only if a promise is resolved
+
+const promise1 = Promise.reject(`reject promise`);
+const promise2 = new Promise((resolve) => setTimeout(resolve, 100, 'quick promise'));
+const promise3 = new Promise((resolve) => setTimeout(reject, 500, 'slow promise'));
+
+const promises = [promise1, promise2, promise3];
+
+Promise.any(promises).then((value) => console.log(value));
+```	
 
 #### https://v8.dev/blog/fast-async
 
