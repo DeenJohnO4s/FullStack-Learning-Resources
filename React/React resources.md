@@ -537,7 +537,7 @@ https://github.com/tayiorbeii/egghead.io_idiomatic_redux_course_notes
   
   https://medium.com/appsflyer/dont-call-me-i-ll-call-you-side-effects-management-with-redux-saga-part-2-cd16f6bcdbcd
   
-  https://medium.com/nmc-techblog/the-power-of-redux-saga-3dbd26a08b49
+  https://medium.com/nmc-techblog/the-power-of-redux-saga-3dbd26a08b49 (great)
   
   ```js
   // https://www.youtube.com/watch?v=o3A9EvMspig
