@@ -540,6 +540,11 @@ https://github.com/tayiorbeii/egghead.io_idiomatic_redux_course_notes
   
   https://medium.com/nmc-techblog/the-power-of-redux-saga-3dbd26a08b49 (great)
   
+  https://javascript.plainenglish.io/redux-thunk-vs-redux-saga-8c93fc822de
+  
+  https://stackoverflow.com/questions/54627603/using-redux-saga-in-a-big-project
+  
+  
   ```js
   // https://www.youtube.com/watch?v=o3A9EvMspig
 
