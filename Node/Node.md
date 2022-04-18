@@ -189,6 +189,9 @@ https://medium.com/@sararavi14/node-js-threading-model-badf7bb5fffa
 
 **Guillermo Rauch- socket.io**
 
+### advance stuff
+https://www.udemy.com/course/node-js-cluster/ (great course)
+
 
 ### Debugging
 
