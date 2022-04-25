@@ -31,3 +31,13 @@ apache kafka
 https://www.youtube.com/watch?v=Ch5VhJzaoaI
 
 https://www.youtube.com/watch?v=0V9SK6jmDPk
+
+
+Distributed Systems series
+
+https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
+
+"Turning the database inside out with Apache Samza" by Martin Kleppmann
+https://www.youtube.com/watch?v=fU9hR3kiOK0&t=1s
+
+
