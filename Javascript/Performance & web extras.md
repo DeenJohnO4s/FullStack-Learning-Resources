@@ -322,6 +322,9 @@ https://www.debugbear.com/blog/resource-hints-rel-preload-prefetch-preconnect
 #### Eliminating Roundtrips with Preconnect (great)
 https://www.igvita.com/2015/08/17/eliminating-roundtrips-with-preconnect/
 
+#### life of a pixel
+https://www.youtube.com/watch?v=m-J-tbAlFic
+
 #### prefetch
 https://blog.mgechev.com/2021/02/07/prefetching-strategies-heuristics-faster-web-apps/
 
