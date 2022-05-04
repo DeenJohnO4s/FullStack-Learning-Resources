@@ -1,6 +1,11 @@
 SSR & SSG
 https://www.youtube.com/watch?v=BILxV_vrZO0
 
+incremental static regeneration
+https://www.youtube.com/watch?v=X0-6lyxj1_Q
+
+https://www.youtube.com/watch?v=BGexHR1tuOA
+
 
 story of next
 https://www.youtube.com/watch?v=kdXKz1UWc3E
@@ -14,3 +19,10 @@ Next.js & React - The Complete Guide (incl. Two Paths!)
 https://www.udemy.com/course/nextjs-react-the-complete-guide/
 
 https://nextjs.org/learn/foundations/how-nextjs-works/rendering
+
+why next is fast
+https://www.youtube.com/watch?v=JU1PpAqTseM
+
+courses
+
+https://www.youtube.com/watch?v=uQeidE2LA1s&list=PL6bwFJ82M6FXjyBTVi6WSCWin8q_g_8RR
