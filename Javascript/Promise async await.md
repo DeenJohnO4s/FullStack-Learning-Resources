@@ -117,6 +117,41 @@ new Promise((res,rej)=>{
 
 ```
 
+## in which sequence we print 
+
+```js
+
+const promise1 = Promise.resolve().then(()=> {
+  console.log('promise 1');
+  const timer2 = setTimeout( ()=>{console.log('timer2') }, 0)
+});
+
+const timer1 = setTimeout(()=> {
+ console.log('timer 1');
+ const promise2 = Promise.resolve().then(()=>{
+    console.log('promise 2');
+ })
+
+},0)
+
+console.log('start')
+
+```
+```javascript 
+
+// output in what order, after how many sec
+ alert('hello')
+
+ setTimeout(()=>{
+ console.log('1000')
+ },1000)
+
+  setTimeout(()=>{
+     console.log('5000')
+ },5000)
+ 
+ ```
+
 ### for event loop refer
 
 https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
@@ -313,20 +348,7 @@ fetch("http://localhost:4000/api/person/:1") //http://localhost:4000/api/person/
 });
 				
 ```
-```javascript 
 
-// output in what order, after how many sec
- alert('hello')
-
- setTimeout(()=>{
- console.log('1000')
- },1000)
-
-  setTimeout(()=>{
-     console.log('5000')
- },5000)
- 
- ```
  // Promisify functions that accept the last argument as the callback fn.
 
 ```js
