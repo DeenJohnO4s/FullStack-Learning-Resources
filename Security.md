@@ -32,3 +32,9 @@ https://indepth.dev/posts/1382/localstorage-vs-cookies
 #### csp
 
 https://www.youtube.com/watch?v=nHOuakyHX1E
+
+#### xss 
+
+https://www.youtube.com/watch?v=lG7U3fuNw3A&ab_channel=LiveOverflow
+
+
