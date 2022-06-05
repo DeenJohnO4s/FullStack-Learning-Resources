@@ -26,3 +26,5 @@ https://www.youtube.com/watch?v=JU1PpAqTseM
 courses
 
 https://www.youtube.com/watch?v=uQeidE2LA1s&list=PL6bwFJ82M6FXjyBTVi6WSCWin8q_g_8RR
+
+https://www.youtube.com/playlist?list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG
