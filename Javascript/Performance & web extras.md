@@ -397,6 +397,12 @@ https://www.youtube.com/watch?v=SIdzhrynNbM&list=PLx9THvOL50-W3dkybv7tRUik0j33nF
 #### http2 vs http 1.1
 https://www.greenlanemarketing.com/resources/articles/seo-101-http-vs-http2/
 
+https://www.youtube.com/watch?v=r5oT_2ndjms
+
+https://www.youtube.com/watch?v=fVKPrDrEwTI&ab_channel=HusseinNasser
+
+
+
 https://factoryhr.medium.com/http-2-the-difference-between-http-1-1-benefits-and-how-to-use-it-38094fa0e95b
 
 https://www.wallarm.com/what/what-is-http-2-and-how-is-it-different-from-http-1
