@@ -21,3 +21,6 @@ https://www.youtube.com/watch?v=51B-jSOBF8U
 https://www.youtube.com/watch?v=mS2Z2yolyUo
 
 https://www.youtube.com/watch?v=cD6pkL020q4
+
+session cookie
+https://www.sohamkamani.com/nodejs/session-cookie-authentication/
