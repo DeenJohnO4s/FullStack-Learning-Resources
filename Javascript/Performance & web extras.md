@@ -125,6 +125,9 @@ https://whatpr.org/html/3752/2793ee4...8bac3c8/images.html
 ## html
 https://html.spec.whatwg.org/multipage/
 
+## http2
+https://www.youtube.com/watch?v=EiRZ3IphqKU
+
 ## Performant front-end architecture
 https://www.debugbear.com/blog/performant-front-end-architecture
 
