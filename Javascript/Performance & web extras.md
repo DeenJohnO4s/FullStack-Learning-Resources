@@ -290,6 +290,20 @@ https://www.youtube.com/watch?v=5b7qNYCrHWg&t=134s
 https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/
 https://engineering.sift.com/preloading-javascript-split-files/
 https://addyosmani.com/blog/preload-hero-images/
+https://www.youtube.com/watch?v=R_D0rL094F4&ab_channel=SteveGriffith-Prof3ssorSt3v3
+
+https://www.youtube.com/watch?v=cJXnmk4WVNE
+
+
+https://www.youtube.com/watch?v=BMuFBYw91UQ
+
+https://www.youtube.com/watch?v=f4RAtR_3zcs
+
+https://www.youtube.com/watch?v=J6airiY8e84
+
+https://www.youtube.com/watch?v=UwjzFGCAuLw&ab_channel=estellevw
+
+
 
 ## preconnect, prefetch, preload
 
@@ -403,6 +417,7 @@ https://www.youtube.com/watch?v=r5oT_2ndjms
 
 https://www.youtube.com/watch?v=fVKPrDrEwTI&ab_channel=HusseinNasser
 
+https://www.youtube.com/watch?v=jhqrRT4fvOA
 
 
 https://factoryhr.medium.com/http-2-the-difference-between-http-1-1-benefits-and-how-to-use-it-38094fa0e95b
