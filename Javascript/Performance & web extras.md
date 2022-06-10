@@ -323,9 +323,13 @@ https://developpaper.com/asynchronous-loading-and-preloading-for-depth-analysis/
 
 #### preconnect, prefetch, prerender, preloading
 https://ymatuhin.ru/front-end/html5-link-prefetch/
+https://css-tricks.com/using-relpreconnect-to-establish-network-connections-early-and-increase-performance/
+
+https://twitter.com/addyosmani/status/1090874825286000640
 
 #### Preload, Prefetch And Priorities in Chrome (best)
 https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf
+
 
 #### Preload critical assets to improve loading speed
 https://web.dev/preload-critical-assets/
@@ -448,6 +452,10 @@ http://www.steves-internet-guide.com/dns-lookups/
 https://www.imperva.com/learn/performance/prefetching/
 
 http://www.7loops.com/dns-prefetch-vs-preconnect/
+
+
+https://www.youtube.com/watch?v=JpuSP4DUa3g
+
 
 ## next.js vs react
 https://www.youtube.com/watch?v=_otTkX0RApI&list=PLYxzS__5yYQmtffOzMwP-GSB8PIW_ASGj
