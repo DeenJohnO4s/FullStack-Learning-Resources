@@ -116,6 +116,9 @@ new Promise((res,rej)=>{
 })
 
 ```
+### event loop
+https://www.youtube.com/watch?v=cCOL7MC4Pl0&ab_channel=JSConf
+
 
 ## in which sequence we print 
 
