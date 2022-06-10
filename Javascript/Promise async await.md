@@ -116,9 +116,13 @@ new Promise((res,rej)=>{
 })
 
 ```
-### event loop
+### event loop best
 https://www.youtube.com/watch?v=cCOL7MC4Pl0&ab_channel=JSConf
 
+https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=252s
+
+node event loop
+https://www.youtube.com/watch?v=gl9qHml-mKc&ab_channel=NodeConfArgentina
 
 ## in which sequence we print 
 
