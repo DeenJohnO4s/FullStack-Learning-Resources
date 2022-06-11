@@ -244,7 +244,27 @@ test();
 ### que : microtask queue 
 https://blog.risingstack.com/writing-a-javascript-framework-execution-timing-beyond-settimeout/
 
+https://www.dmitry-salnikov.info/article/microtasks-vs-macrotasks-in-javascript-deep-dive-into-the-event-loop-mechanism
 
+```js
+
+console.log('start');
+
+setTimeout(() => {
+  console.log(‘timeout’);
+}, 0);
+
+Promise.resolve()
+  .then(() => {
+    console.log('promise 1');
+  })
+  .then(() => {
+    console.log('promise 2');
+  });
+
+console.log('end’);
+
+```
 ### que :
 
 ```javascript
