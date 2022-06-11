@@ -8,3 +8,13 @@ https://blog.logrocket.com/caching-headers-a-practical-guide-for-frontend-develo
 
 2. oauth
 https://www.youtube.com/watch?v=996OiexHze0
+
+3. nginx reverse proxy 
+https://www.youtube.com/watch?v=i8DOV3jNHy4&list=PLdHg5T0SNpN38gy5xZ0PVEaDdZXlPkgP9&index=8&ab_channel=yoursTRULY
+
+https://www.youtube.com/watch?v=PAEDJrGJyaY&ab_channel=codedamn
+
+4.ssl with nginx
+https://www.youtube.com/watch?v=wQcSql62zRo
+
+5.
