@@ -5,6 +5,9 @@ incremental static regeneration
 https://www.youtube.com/watch?v=X0-6lyxj1_Q
 
 https://www.youtube.com/watch?v=BGexHR1tuOA
+https://www.patterns.dev/posts/incremental-static-rendering/
+
+https://arunoda.me/blog/what-is-nextjs-issg (best)
 
 
 story of next
