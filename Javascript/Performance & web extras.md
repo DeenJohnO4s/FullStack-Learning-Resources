@@ -291,7 +291,7 @@ https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/
 https://engineering.sift.com/preloading-javascript-split-files/
 https://addyosmani.com/blog/preload-hero-images/
 https://www.youtube.com/watch?v=R_D0rL094F4&ab_channel=SteveGriffith-Prof3ssorSt3v3
-
+https://developer.mozilla.org/en-US/docs/Web/HTML/Link_types/preload
 https://www.youtube.com/watch?v=cJXnmk4WVNE
 
 
