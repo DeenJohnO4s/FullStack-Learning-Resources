@@ -126,7 +126,7 @@ https://whatpr.org/html/3752/2793ee4...8bac3c8/images.html
 https://html.spec.whatwg.org/multipage/
 
 ## http2
-https://www.youtube.com/watch?v=EiRZ3IphqKU
+https://www.youtube.com/watch?v=EiRZ3IphqKU (good)
 
 https://www.sohamkamani.com/nodejs/http2/
 
@@ -414,7 +414,11 @@ https://newrelic.com/blog/how-to-relic/browser-first-paint-first-contentful-pain
 #### good youtube series 
 https://www.youtube.com/watch?v=SIdzhrynNbM&list=PLx9THvOL50-W3dkybv7tRUik0j33nFgct
 
-#### http2 vs http 1.1
+## http2
+https://www.youtube.com/watch?v=EiRZ3IphqKU (good)
+
+https://www.sohamkamani.com/nodejs/http2/
+
 https://www.greenlanemarketing.com/resources/articles/seo-101-http-vs-http2/
 
 https://www.youtube.com/watch?v=r5oT_2ndjms
@@ -431,6 +435,9 @@ https://www.wallarm.com/what/what-is-http-2-and-how-is-it-different-from-http-1
 https://faun.pub/http-2-spdy-and-http-3-quic-bae7d9a3d484
 
 https://building.lang.ai/our-journey-from-websockets-to-http-2-4d069c54effd
+
+https://www.youtube.com/watch?v=ebR_XrAoW3k (good)
+
 
 #### web push notification
 
