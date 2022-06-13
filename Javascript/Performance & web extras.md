@@ -427,6 +427,7 @@ https://www.youtube.com/watch?v=fVKPrDrEwTI&ab_channel=HusseinNasser
 
 https://www.youtube.com/watch?v=jhqrRT4fvOA
 
+https://stackoverflow.com/questions/45583861/how-does-http2-solve-head-of-line-blocking-hol-issue
 
 https://factoryhr.medium.com/http-2-the-difference-between-http-1-1-benefits-and-how-to-use-it-38094fa0e95b
 
@@ -438,6 +439,11 @@ https://building.lang.ai/our-journey-from-websockets-to-http-2-4d069c54effd
 
 https://www.youtube.com/watch?v=ebR_XrAoW3k (good)
 
+https://stackoverflow.com/questions/28582935/does-http-2-make-websockets-obsolete
+https://stackoverflow.com/questions/28582935/does-http-2-make-websockets-obsolete
+https://stackoverflow.com/questions/28592077/what-is-the-difference-between-http-1-1-and-http-2-0
+https://stackoverflow.com/questions/36517829/what-does-multiplexing-mean-in-http-2
+https://stackoverflow.com/questions/30861591/why-bundle-optimizations-are-no-longer-a-concern-in-http-2
 
 #### web push notification
 
