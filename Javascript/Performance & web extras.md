@@ -125,10 +125,6 @@ https://whatpr.org/html/3752/2793ee4...8bac3c8/images.html
 ## html
 https://html.spec.whatwg.org/multipage/
 
-## http2
-https://www.youtube.com/watch?v=EiRZ3IphqKU (good)
-
-https://www.sohamkamani.com/nodejs/http2/
 
 ## Performant front-end architecture
 https://www.debugbear.com/blog/performant-front-end-architecture
@@ -444,6 +440,12 @@ https://stackoverflow.com/questions/28582935/does-http-2-make-websockets-obsolet
 https://stackoverflow.com/questions/28592077/what-is-the-difference-between-http-1-1-and-http-2-0
 https://stackoverflow.com/questions/36517829/what-does-multiplexing-mean-in-http-2
 https://stackoverflow.com/questions/30861591/why-bundle-optimizations-are-no-longer-a-concern-in-http-2
+
+https://www.igvita.com/2013/06/12/innovating-with-http-2.0-server-push/
+https://blog.khanacademy.org/forgo-js-packaging-not-so-fast/
+
+
+https://www.youtube.com/watch?v=krEhLbAOalE
 
 #### web push notification
 
