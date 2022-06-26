@@ -461,3 +461,7 @@ Promise.all([promise1, promise2, promise3])
 
 #### https://james-priest.github.io/udacity-nanodegree-mws/course-notes/javascript-promises.html
 
+
+#### generators
+https://www.youtube.com/watch?v=gu3FfmgkwUc&ab_channel=JSConf
+
