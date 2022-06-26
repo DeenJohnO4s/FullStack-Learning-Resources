@@ -485,3 +485,7 @@ https://www.youtube.com/watch?v=4lYDlrjUx48&list=PLIJRjvch2ZlUHDQiMjs5CPHkials-g
 ####  https://indepth.dev/posts/1454/building-a-react-static-site-generator-in-20-lines-of-code-4-dependencies-and-no-transpilers
   
  #### https://indepth.dev/posts/1324/the-journey-to-isomorphic-rendering-performance
+ 
+ 
+ ## js parsing
+ https://medium.com/@yanguly/inside-javascript-engines-part-1-parsing-c519d75833d7
