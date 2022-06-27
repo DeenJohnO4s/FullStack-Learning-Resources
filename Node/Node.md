@@ -201,7 +201,11 @@ https://www.udemy.com/course/node-js-cluster/ (great course)
 - **Profiling Node.js Applications by Patrick Mueller**
 
 - **Netflix JavaScript Talks - Debugging Node.js in Production**
-    
+  
+ ### memory leak
+ https://www.udemy.com/course/detecting-memory-leaks-in-nodejs-and-v8/
+ 
+ 
 open source code
 
 https://medium.mybridge.co/45-amazing-node-js-open-source-for-the-past-year-v-2019-c774d750e925
