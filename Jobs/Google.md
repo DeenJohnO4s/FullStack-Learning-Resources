@@ -10,3 +10,5 @@ What are we looking for: Folks with solid knowledge of native JS,
 understanding of HTML semantics, CSS, layout, animations, browser apis, 
 DOM manipulation, performance considerations and a mindset to put users first. 
 Knowledge of React, Flutter, native app development is a plus but not mandatory.
+
+https://www.linkedin.com/feed/update/urn:li:activity:6947831506027311104/
