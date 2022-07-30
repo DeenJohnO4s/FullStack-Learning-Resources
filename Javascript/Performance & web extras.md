@@ -491,6 +491,8 @@ https://www.youtube.com/watch?v=4lYDlrjUx48&list=PLIJRjvch2ZlUHDQiMjs5CPHkials-g
  
  ## js parsing
  https://medium.com/@yanguly/inside-javascript-engines-part-1-parsing-c519d75833d7
+
+https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/
  
  
 
