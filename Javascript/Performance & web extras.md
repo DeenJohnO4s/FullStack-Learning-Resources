@@ -338,6 +338,8 @@ https://3perf.com/talks/web-perf-101
 https://www.igvita.com/2015/08/17/eliminating-roundtrips-with-preconnect/
 https://www.debugbear.com/blog/resource-hints-rel-preload-prefetch-preconnect
 
+https://www.digitalocean.com/community/tutorials/html-preload-prefetch
+
 #### Eliminating Roundtrips with Preconnect (great)
 https://www.igvita.com/2015/08/17/eliminating-roundtrips-with-preconnect/
 
@@ -489,3 +491,6 @@ https://www.youtube.com/watch?v=4lYDlrjUx48&list=PLIJRjvch2ZlUHDQiMjs5CPHkials-g
  
  ## js parsing
  https://medium.com/@yanguly/inside-javascript-engines-part-1-parsing-c519d75833d7
+ 
+ 
+
