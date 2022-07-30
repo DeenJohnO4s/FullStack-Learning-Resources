@@ -31,7 +31,7 @@ https://blog.logrocket.com/rendering-large-lists-with-react-virtualized-82741907
 https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9
 
 ## preload image 
-https://addyosmani.com/blog/preload-hero-images/
+https://addyosmani.com/blog/preload-hero-images/ (v good)
 https://web.dev/preload-responsive-images/
 
 ## css centering
