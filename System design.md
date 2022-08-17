@@ -34,3 +34,10 @@ https://www.youtube.com/watch?v=RtxQDMIVK2g
 https://www.youtube.com/watch?v=mPuyU4kdlVE
 
 https://www.youtube.com/watch?v=C-JKcMM6IXE
+
+8- OS
+https://www.youtube.com/watch?v=bkSWJJZNgf8&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p
+
+https://www.youtube.com/watch?v=TAHAfUqV3v0&list=PLL8qj6F8dGlRavlKTCXEPBs_5844Dav4k
+
+
